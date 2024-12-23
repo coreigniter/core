@@ -1,2 +1,2 @@
-# framework
-CoreIgniter Framework
+# CoreIgniter Core
+CoreIgniter Core
