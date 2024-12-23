@@ -1,11 +1,11 @@
 {
-    "name": "coreigniter/framework",
-    "description": "CoreIgniter Framework",
+    "name": "coreigniter/core",
+    "description": "CoreIgniter Core",
     "type": "project",
     "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
-            "CoreIgniter\\Framework\\": "src/"
+            "CoreIgniter\\Core\\": "src/"
         }
     },
     "authors": [
